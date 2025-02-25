@@ -32,6 +32,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering involves crafting specific inputs to guide AI models in generating desired outputs.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Tell me about climate change.
+Provide a summary of the primary causes of climate change.
